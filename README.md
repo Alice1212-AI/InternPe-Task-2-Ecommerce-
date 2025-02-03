@@ -87,3 +87,24 @@ Background Image: A large hero image at the top of the page with a centered call
 ✅Footer
 
 Footer Structure: Includes links, social media icons, and a copyright notice.
+
+![image](https://github.com/user-attachments/assets/8af29f44-bbba-4af5-a694-03c0938b204a)
+
+![image](https://github.com/user-attachments/assets/821117db-45cf-43df-a6cc-9f11ae04a6cc)
+
+![image](https://github.com/user-attachments/assets/f08d3894-0aaa-4f5c-958d-9be345e955f6)
+
+![image](https://github.com/user-attachments/assets/edbfa6de-540e-4700-a202-32171ac6c993)
+
+![image](https://github.com/user-attachments/assets/27224e32-1043-42cd-b66e-d9de0db1f918)
+
+![image](https://github.com/user-attachments/assets/806a2e76-b401-4a7c-94f9-951b33e0c0c1)
+
+![image](https://github.com/user-attachments/assets/61fd0e57-b6fa-4466-9bfc-f7e8bbad106a)
+
+
+
+
+
+
+
